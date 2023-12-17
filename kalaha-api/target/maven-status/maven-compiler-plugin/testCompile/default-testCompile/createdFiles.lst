@@ -1,0 +1,8 @@
+com\es\kalaha\service\PlayerServiceTest.class
+com\es\kalaha\service\GameSettingsServiceTest.class
+com\es\kalaha\KalahaApplicationTests.class
+com\es\kalaha\service\GameServiceTest.class
+com\es\kalaha\validation\UserValidations.class
+com\es\kalaha\mapper\StoreMapperTest.class
+com\es\kalaha\controller\GameControllerTest.class
+com\es\kalaha\mapper\PlayerMapperTest.class
